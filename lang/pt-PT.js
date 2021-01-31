@@ -65,7 +65,7 @@ export default () => {
         "banner_subtitle": "Milhões de usuários satisfeitos trabalham melhor com nossos aplicativos integrados.",
         "banner_watchvideo": "Assista ao vídeo",
         "getstarted": "Primeiros passos",
-        "counter_month": "Mês",
+        "counter_day": "Mês",
         "counter_free": "Avaliação gratuita",
         "counter_users": "Usuários ativos",
         "counter_providers": "Provedores",

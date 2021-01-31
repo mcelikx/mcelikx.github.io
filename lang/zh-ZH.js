@@ -65,7 +65,7 @@ export default () => {
         "banner_subtitle": "数百万名满意的用户使用我们的集成应用程序可以更好地工作。",
         "banner_watchvideo": "观看视频",
         "a_getstarted": "开始",
-        "counter_month": "月份",
+        "counter_day": "月份",
         "counter_free": "免费试用",
         "counter_users": "活动用户",
         "counter_providers": "提供者",

@@ -10,16 +10,16 @@ export default [
     code: 'tr',
     iso: 'tr-TR',
     name: 'Türkçe',
-    file: 'tr-TR.js',
+    file: 'tr-TR.json',
     dir: 'ltr'
   },
   {
     code: 'en',
     iso: 'en-US',
     name: 'English',
-    file: 'en-US.js',
+    file: 'en-US.json',
     dir: 'ltr'
-  },
+  }
   // {
   //   code: 'id',
   //   iso: 'id-ID',

@@ -65,7 +65,7 @@ export default () => {
         "banner_subtitle": "Jutaan pengguna bahagia bekerja lebih baik dengan Aplikasi terintegrasi kami.",
         "banner_watchvideo": "Tonton Video",
         "getstarted": "Memulai",
-        "counter_month": "Bulan",
+        "counter_day": "Bulan",
         "counter_free": "Uji Coba Gratis",
         "counter_users": "Pengguna Aktif",
         "counter_providers": "Provider",

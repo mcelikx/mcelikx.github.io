@@ -65,7 +65,7 @@ export default () => {
         "banner_subtitle": "ملايين من المستخدمين السعداء يعملون بشكل أفضل مع تطبيقاتنا المدمجة.",
         "banner_watchvideo": "شاهد الفيديو",
         "getstarted": "البدء",
-        "counter_month": "شهر",
+        "counter_day": "شهر",
         "counter_free": "تجربة مجانية",
         "counter_users": "المستخدمون النشطون",
         "counter_providers": "مقدمي",
