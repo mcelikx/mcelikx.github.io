@@ -79,7 +79,7 @@
     "testi_title": "What Our Customers",
     "testi_titlestrong": "Testimonial",
     "pricing_title": "Ödeme & Plan",
-    "pricing_subtitle": "The best value designed for your workplace, starting at just $24/user/month.",
+    "pricing_subtitle": "2021 yılı tek şube fiyatlarıdır. Fiyatlara KDV dahil değildir. Kurulum ücreti işletmeye göre değişmektedir. Zincir işletmeler için özel teklif verilmektedir.",
     "faq_subtitle": "Have a question? Check out our frequently asked questions to find your answer.",
     "caption_news": "news",
     "caption_event": "event",
@@ -87,13 +87,16 @@
     "footer_waiting": "What are you waiting for?"
   },
   "packages": {
-    "basic": "Başlangıç",
+    "basic": "BAŞLANGIÇ",
     "basicDesc": "Küçük işletmeler için uygun fiyatlı ve basit işlemlerini yapabilecekleri bir sistem sunar",
-    "intermediate": "Orta",
+    "intermediate": "ORTA",
     "intermediateDesc": "Orta düzey işletmelerin ihtiyaçlarını karşılayabilir ve basit raporlamalar ile işletmeye önemli veriler sunar",
-    "advanced": "İleri",
-    "advancedDesc": "Birçok spor ve sağlık işletmesinin uçtan uca ihtiyaçlarını karşılayabilecekleri, tek şube için rezervasyon ve raporlamaları yapar",
-    "allInOne": "All in One",
-    "allInOneDesc": "Yoğun işletmeler ve büyük komplekslerin yönetimini gelişmiş modüllerimiz ile kolaylıkla yönetebilmenizi sağlar"
+    "advanced": "İLERİ",
+    "advancedDesc": "Birçok spor ve sağlık işletmesinin uçtan uca ihtiyaçlarını karşılayabilir. Tek şube için rezervasyon ve raporlamaları tüm özellikleriyle sunar",
+    "allInOne": "ALL IN ONE",
+    "allInOneDesc": "Yoğun işletmeler ve spor komplekslerin yönetimini gelişmiş modüllerimiz ile kolaylıkla yönetebilmenizi sağlar",
+    "noAccess": "Erişim Yok",
+    "partialAccess": "Kısmi Erişim",
+    "fullAccess": "Tam Erişim"
   }
 }
