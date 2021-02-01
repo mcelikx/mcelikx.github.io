@@ -53,8 +53,8 @@
     "header_dark": "Koyu",
     "header_light": "Açık",
     "header_feature": "Özellikler",
-    "header_testimonials": "Referanslar",
-    "header_pricing": "Ödeme & Plan",
+    "header_testimonials": "Kullanıcılar",
+    "header_pricing": "Paketler & Fiyatlandırma",
     "header_faq": "SSS",
     "header_contact": "İletişim",
     "banner_title": "Güçlü bir şirket için",
@@ -78,13 +78,12 @@
     "feature_desc3": "We empowers your marketing, sales and services teams to collaborate across the entire customer lifecycle for more meaningful, memorable experiences.",
     "testi_title": "What Our Customers",
     "testi_titlestrong": "Testimonial",
-    "pricing_title": "Ödeme & Plan",
     "pricing_subtitle": "2021 yılı tek şube fiyatlarıdır. Fiyatlara KDV dahil değildir. Kurulum ücreti işletmeye göre değişmektedir. Zincir işletmeler için özel teklif verilmektedir.",
-    "faq_subtitle": "Have a question? Check out our frequently asked questions to find your answer.",
-    "caption_news": "news",
+    "faq_subtitle": "Sık Sorulan Sorular ile sorunuzun cevabını hemen bulun.",
+    "caption_news": "Blog",
     "caption_event": "event",
-    "news_readmore": "read more",
-    "footer_waiting": "What are you waiting for?"
+    "news_readmore": "Devamını Oku",
+    "footer_waiting": "İşletmeniz için en iyi çözümü birlikte planlayalım."
   },
   "packages": {
     "basic": "BAŞLANGIÇ",
