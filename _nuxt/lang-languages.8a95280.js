@@ -1,0 +1,1 @@
+(window.webpackJsonp=window.webpackJsonp||[]).push([[2],{251:function(e,n,o){"use strict";o.r(n),n.default=[{code:"tr",iso:"tr-TR",name:"Türkçe",file:"tr-TR.json",dir:"ltr"},{code:"en",iso:"en-US",name:"English",file:"en-US.json",dir:"ltr"}]}}]);

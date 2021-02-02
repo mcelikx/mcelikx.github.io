@@ -1,16 +1,7 @@
 const imgAPI = {
   avatar: [
     '/images/avatars/huseyingul.jpg',
-    '/images/avatars/farukgul.jpg',
-    '/images/avatars/pp_girl3.svg',
-    '/images/avatars/pp_girl4.svg',
-    '/images/avatars/pp_girl5.svg',
-    '/images/avatars/pp_girl.svg',
-    '/images/avatars/pp_boy.svg',
-    '/images/avatars/pp_boy2.svg',
-    '/images/avatars/pp_boy3.svg',
-    '/images/avatars/pp_boy4.svg',
-    '/images/avatars/pp_boy5.svg'
+    '/images/avatars/farukgul.jpg'
   ],
   photo: [
     'https://via.placeholder.com/675x900/e1ad92/fff',
