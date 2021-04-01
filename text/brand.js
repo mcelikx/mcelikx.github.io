@@ -1,15 +1,13 @@
 const brand = {
   saas: {
     name: 'My Gym Assistant',
-    desc: 'Best fitness&wellness software',
+    desc: 'En iyi salon yönetim yazılımı',
     prefix: 'MGA',
     footerText: 'My Gym Assistant 2021',
     logoText: 'My Gym Assistant',
-    projectName: 'Software',
+    projectName: 'My Gym Assistant',
     url: 'mygymassistant.com',
-    img: '/static/images/saas-logo.png',
-    notifMsg:
-      'Donec sit amet nulla sed arcu pulvinar ultricies commodo id ligula.'
+    img: '/static/images/saas-logo.png'
   }
 }
 

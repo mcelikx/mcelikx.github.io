@@ -1,6 +1,9 @@
 {
   "common": {
-
+    "ok": "Tamam"
+  },
+  "meta": {
+    "contact": "İletişim Meta TR"
   },
   "header": {
     "webPanel": "Özellikler",
@@ -43,7 +46,7 @@
     "testiData0Title": "Clean SPA",
     "testiData0Text": "SPA salonlarının tüm ihtiyaçlarına cevap verebilen bir yazılım. Bu yazılım sayesinde işletmemi artık daha etkin bir şekilde yönetebiliyorum.",
     "testiData1Title": "Yeşil Beyaz Spor Merkezi",
-    "testiData1Text": "Yooğun iş temposuna sahip zincir salonlarımızı My Gym Assistant ile çok rahat yönetebiliyoruz. Akıllı cihazları çok başarılı."
+    "testiData1Text": "Yoğun iş temposuna sahip zincir salonlarımızı My Gym Assistant ile çok rahat yönetebiliyoruz. Akıllı cihazları çok başarılı."
   },
   "packagesAndPricing": {
     "basic": "BAŞLANGIÇ",
@@ -64,7 +67,7 @@
     "creditSystem": "Bakiye Sistemi",
     "reports": "Raporlar",
     "choosePackage": "Paket Seç",
-    "footNote": "2021 yılı tek şube fiyatlarıdır. Fiyatlara KDV dahil değildir. Kurulum ücreti bulunmamaktadır. Zincir işletmeler için özel teklif verilmektedir."
+    "footNote": "2021 yılı tek şube için aylık fiyatlardır. Fiyatlara KDV dahil değildir. Kurulum ücreti bulunmamaktadır. Zincir işletmeler için özel teklif verilmektedir."
   },
   "faq": {
     "faqSubtitle": "Sıkça Sorulan Sorular",
@@ -119,7 +122,9 @@
     "emailRequired": "E mail giriniz",
     "phoneRequired": "E mail giriniz",
     "phoneValid": "Lütfen geçerli bir cep telefonu giriniz",
-    "emailValid": "Lütfen geçerli bir email giriniz"
+    "emailValid": "Lütfen geçerli bir email giriniz",
+    "contactSend": "Form başarıyla gönderilmiştir.",
+    "redirectHome": "Anasayfaya yönlendiriliyorsunuz."
   },
   "languages": {
     "selectLanguage": "Dil Seç",
