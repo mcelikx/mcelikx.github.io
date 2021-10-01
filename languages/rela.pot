@@ -1,0 +1,823 @@
+#, fuzzy
+msgid ""
+msgstr ""
+"Project-Id-Version: Rela\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2019-11-11 14:48+0000\n"
+"PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
+"Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
+"Language-Team: \n"
+"Language: \n"
+"Plural-Forms: nplurals=INTEGER; plural=EXPRESSION;\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Generator: Loco https://localise.biz/\n"
+"X-Loco-Version: 2.3.1; wp-5.2.4"
+
+#: template-parts/theme-footer.php:3
+msgid " &copy;"
+msgstr ""
+
+#: comments.php:31
+msgid "&larr; Older comments"
+msgstr ""
+
+#: include/helper-function.php:18
+msgid "(Edit)"
+msgstr ""
+
+#: 404.php:12
+msgid "404"
+msgstr ""
+
+#. Description of the theme
+msgid ""
+"A stunning visual experience for minimal loving creative. This template is a "
+"responsive and retina-ready WordPress theme with grid system layout. It is "
+"optimized for mobile touch and swipe."
+msgstr ""
+
+#: include/actions-config.php:280
+msgid "Accept"
+msgstr ""
+
+#: include/actions-config.php:257
+msgid "Activate installed plugin"
+msgid_plural "Activate installed plugins"
+msgstr[0] ""
+msgstr[1] ""
+
+#: include/aheto-shortcodes.php:748
+msgid "Add additional button?"
+msgstr ""
+
+#: include/aheto-shortcodes.php:1553
+msgid "Add address icon?"
+msgstr ""
+
+#: include/aheto-shortcodes.php:1567
+msgid "Add email icon?"
+msgstr ""
+
+#: include/aheto-shortcodes.php:587 include/aheto-shortcodes.php:1381
+msgid "Add image"
+msgstr ""
+
+#: include/aheto-shortcodes.php:1560
+msgid "Add phone icon?"
+msgstr ""
+
+#: include/aheto-shortcodes.php:583
+msgid "Add some text for content"
+msgstr ""
+
+#: include/actions-config.php:55
+msgid "Add widgets here."
+msgstr ""
+
+#: include/aheto-shortcodes.php:663
+msgid "Additional Image"
+msgstr ""
+
+#: include/aheto-shortcodes.php:1538
+msgid "Address"
+msgstr ""
+
+#: include/aheto-shortcodes.php:675
+msgid "Align"
+msgstr ""
+
+#: include/actions-config.php:260
+#, php-format
+msgid "All plugins installed and activated successfully. %s"
+msgstr ""
+
+#: template-parts/theme-header.php:30
+msgid "Appearance &gt; Menus"
+msgstr ""
+
+#: include/aheto-shortcodes.php:1307 include/aheto-shortcodes.php:1328
+msgid "Author name"
+msgstr ""
+
+#: include/aheto-shortcodes.php:1302
+msgid "Author photo"
+msgstr ""
+
+#: include/aheto-shortcodes.php:1312 include/aheto-shortcodes.php:1333
+msgid "Author position"
+msgstr ""
+
+#: include/aheto-shortcodes.php:892
+msgid "Background color"
+msgstr ""
+
+#: include/aheto-shortcodes.php:659 include/aheto-shortcodes.php:733
+msgid "Background Image"
+msgstr ""
+
+#: include/aheto-shortcodes.php:655 include/aheto-shortcodes.php:729
+msgid "Banners"
+msgstr ""
+
+#: include/actions-config.php:256
+msgid "Begin installing plugin"
+msgid_plural "Begin installing plugins"
+msgstr[0] ""
+msgstr[1] ""
+
+#: archive.php:19 category.php:18 index.php:37
+msgid "Blog"
+msgstr ""
+
+#: include/aheto-shortcodes.php:898
+msgid "Border color"
+msgstr ""
+
+#: include/aheto-shortcodes.php:680
+msgid "Buttons Direction"
+msgstr ""
+
+#: template-parts/blog-list.php:58 template-parts/blog-list-category.php:47
+#: aheto/custom-post-types/skins/cs_skin-1.php:81
+msgid "by "
+msgstr ""
+
+#: comments.php:54
+msgid "Cancel"
+msgstr ""
+
+#: include/aheto-shortcodes.php:247
+msgid "Category"
+msgstr ""
+
+#: include/aheto-shortcodes.php:267
+msgid "Category description"
+msgstr ""
+
+#: include/aheto-shortcodes.php:252
+msgid "Category heading"
+msgstr ""
+
+#: include/aheto-shortcodes.php:257
+msgid "Category label"
+msgstr ""
+
+#: include/aheto-shortcodes.php:262
+msgid "Category price"
+msgstr ""
+
+#: include/aheto-shortcodes.php:1656
+msgid "Color"
+msgstr ""
+
+#: include/aheto-shortcodes.php:1662
+msgid "Color on hover"
+msgstr ""
+
+#: comments.php:30
+msgid "Comment navigation"
+msgstr ""
+
+#: comments.php:21
+#, php-format
+msgctxt "comments"
+msgid "1 comment"
+msgid_plural "<span class=\"count\">%1$s Comments</span>"
+msgstr[0] ""
+msgstr[1] ""
+
+#: include/actions-config.php:201
+msgid "Contact Form 7"
+msgstr ""
+
+#: include/aheto-shortcodes.php:1514
+msgid "Contacts Items"
+msgstr ""
+
+#: include/aheto-shortcodes.php:582 include/aheto-shortcodes.php:695
+#: include/aheto-shortcodes.php:711 include/aheto-shortcodes.php:1102
+#: include/aheto-shortcodes.php:1118 include/aheto-shortcodes.php:1443
+msgid "Content"
+msgstr ""
+
+#: include/aheto-shortcodes.php:974
+msgid "Darkness"
+msgstr ""
+
+#: include/aheto-shortcodes.php:572 include/aheto-shortcodes.php:1018
+msgid "Date"
+msgstr ""
+
+#: include/aheto-shortcodes.php:1221
+msgid "Date label"
+msgstr ""
+
+#: include/aheto-shortcodes.php:337
+msgid "Decoration"
+msgstr ""
+
+#: include/aheto-shortcodes.php:340 include/aheto-shortcodes.php:972
+msgid "Default"
+msgstr ""
+
+#: include/aheto-shortcodes.php:671
+msgid "Description"
+msgstr ""
+
+#: include/aheto-shortcodes.php:347
+msgid "Description for tablets and mobiles"
+msgstr ""
+
+#: include/aheto-shortcodes.php:694 include/aheto-shortcodes.php:1117
+msgid "Description Max width"
+msgstr ""
+
+#: include/aheto-shortcodes.php:1216
+msgid "Disable post date?"
+msgstr ""
+
+#: include/aheto-shortcodes.php:1211
+msgid "Disable post image?"
+msgstr ""
+
+#: include/aheto-shortcodes.php:231 include/aheto-shortcodes.php:1518
+msgid "Element tag for Heading"
+msgstr ""
+
+#: include/aheto-shortcodes.php:1426
+msgid "Element tag for Title"
+msgstr ""
+
+#: include/aheto-shortcodes.php:1546
+msgid "Email"
+msgstr ""
+
+#: include/aheto-shortcodes.php:594
+msgid "Enable dark version?"
+msgstr ""
+
+#: include/actions-config.php:278
+msgid "Enter password below:"
+msgstr ""
+
+#: include/aheto-shortcodes.php:333
+msgid "Feature"
+msgstr ""
+
+#: include/aheto-shortcodes.php:329
+msgid "Features"
+msgstr ""
+
+#. Author of the theme
+msgid "FOXTHEMES"
+msgstr ""
+
+#: 404.php:16
+msgid "Go home"
+msgstr ""
+
+#. If there are characters in your language that are not supported
+#. by chosen font(s), translate this to 'off'. Do not translate into your own language.
+#: include/actions-config.php:75
+msgctxt "Google font: on or off"
+msgid "on"
+msgstr ""
+
+#: include/aheto-shortcodes.php:973
+msgid "Grayscale"
+msgstr ""
+
+#: include/aheto-shortcodes.php:276 include/aheto-shortcodes.php:357
+#: include/aheto-shortcodes.php:1534
+msgid "Heading"
+msgstr ""
+
+#: include/aheto-shortcodes.php:277
+msgid "Heading text."
+msgstr ""
+
+#: include/aheto-shortcodes.php:682
+msgid "Horizontal"
+msgstr ""
+
+#: include/aheto-shortcodes.php:856
+msgid "Hover color"
+msgstr ""
+
+#: include/aheto-shortcodes.php:969
+msgid "Hover Style"
+msgstr ""
+
+#. URI of the theme
+msgid "http://w4.themedemo.co/rela"
+msgstr ""
+
+#. Author URI of the theme
+msgid "https://themeforest.net/user/fox-themes"
+msgstr ""
+
+#: include/aheto-shortcodes.php:1222
+msgid "in World"
+msgstr ""
+
+#: include/actions-config.php:236
+msgid "Install Plugins"
+msgstr ""
+
+#: include/actions-config.php:235
+msgid "Install Required Plugins"
+msgstr ""
+
+#: include/actions-config.php:237
+#, php-format
+msgid "Installing Plugin: %s"
+msgstr ""
+
+#: include/aheto-shortcodes.php:353
+msgid "Item"
+msgstr ""
+
+#: include/aheto-shortcodes.php:568
+msgid "Items"
+msgstr ""
+
+#: searchform.php:4
+msgid "Keyword search..."
+msgstr ""
+
+#: comments.php:52
+msgid "Leave a comment"
+msgstr ""
+
+#: comments.php:53
+#, php-format
+msgid "Leave a reply to %s"
+msgstr ""
+
+#: include/aheto-shortcodes.php:341
+msgid "Line-through"
+msgstr ""
+
+#: include/aheto-shortcodes.php:1317 include/aheto-shortcodes.php:1338
+msgid "Lorem ipsum dolor sit amet, consectetur adipiscing elit."
+msgstr ""
+
+#: include/aheto-shortcodes.php:282
+msgid "Mark as active?"
+msgstr ""
+
+#: include/aheto-shortcodes.php:1442
+msgid "Max width"
+msgstr ""
+
+#: include/aheto-shortcodes.php:522
+msgid "Max width for navbar"
+msgstr ""
+
+#: include/aheto-shortcodes.php:1323
+msgid "Minimal Testimonials Items"
+msgstr ""
+
+#: include/aheto-shortcodes.php:1298
+msgid "Modern Testimonials Items"
+msgstr ""
+
+#: include/aheto-shortcodes.php:1306 include/aheto-shortcodes.php:1327
+msgid "Name"
+msgstr ""
+
+#: comments.php:32
+msgid "Newer comments &rarr;"
+msgstr ""
+
+#: template-parts/blog-list.php:76 template-parts/blog-list-category.php:65
+msgid "Next"
+msgstr ""
+
+#: template-parts/blog-single.php:122
+msgid "Next post"
+msgstr ""
+
+#: template-parts/blog-single.php:90 template-parts/blog-single.php:114
+msgid "No title"
+msgstr ""
+
+#: 404.php:10
+msgid "OOPS!"
+msgstr ""
+
+#: include/aheto-shortcodes.php:342
+msgid "Opacity"
+msgstr ""
+
+#: include/aheto-shortcodes.php:975
+msgid "Opacity decrease"
+msgstr ""
+
+#: include/aheto-shortcodes.php:688
+msgid "Overlay color"
+msgstr ""
+
+#: 404.php:14
+msgid "Page not found"
+msgstr ""
+
+#: page.php:39 template-parts/blog-single.php:69
+msgid "Page:"
+msgstr ""
+
+#: include/actions-config.php:279
+msgid "Password:"
+msgstr ""
+
+#: include/aheto-shortcodes.php:1542
+msgid "Phone"
+msgstr ""
+
+#: include/helper-function.php:17
+msgid "Pingback: "
+msgstr ""
+
+#: template-parts/theme-header.php:30
+msgid "Please register Top Navigation from"
+msgstr ""
+
+#: include/actions-config.php:259
+msgid "Plugin activated successfully."
+msgstr ""
+
+#: include/aheto-shortcodes.php:1311 include/aheto-shortcodes.php:1332
+msgid "Position"
+msgstr ""
+
+#: template-parts/blog-single.php:104
+msgid "Prev post"
+msgstr ""
+
+#: template-parts/blog-list.php:75 template-parts/blog-list-category.php:64
+msgid "Previous"
+msgstr ""
+
+#: include/aheto-shortcodes.php:365 include/aheto-shortcodes.php:852
+msgid "Price"
+msgstr ""
+
+#: functions.php:29
+msgid "Primary menu"
+msgstr ""
+
+#: include/aheto-shortcodes.php:248 include/aheto-shortcodes.php:253
+#: include/aheto-shortcodes.php:263 include/aheto-shortcodes.php:268
+msgid "Put your text..."
+msgstr ""
+
+#. Name of the theme
+msgid "Rela"
+msgstr ""
+
+#: include/aheto-shortcodes.php:994
+msgid "Rela blockquote"
+msgstr ""
+
+#: include/aheto-shortcodes.php:815 include/aheto-shortcodes.php:1405
+msgid "Rela Classic"
+msgstr ""
+
+#: include/aheto-shortcodes.php:454
+msgid "Rela coming soon"
+msgstr ""
+
+#: include/aheto-shortcodes.php:194
+msgid "Rela Consult Isotope"
+msgstr ""
+
+#: include/aheto-shortcodes.php:227
+msgid "Rela Consult Pricing Items"
+msgstr ""
+
+#: include/aheto-shortcodes.php:624
+msgid "Rela Creative"
+msgstr ""
+
+#: include/aheto-shortcodes.php:1400
+msgid "Rela Email"
+msgstr ""
+
+#: include/aheto-shortcodes.php:136
+msgid "Rela Faq"
+msgstr ""
+
+#: include/aheto-shortcodes.php:48
+msgid "Rela footer navigation"
+msgstr ""
+
+#: include/aheto-shortcodes.php:434
+msgid "Rela list"
+msgstr ""
+
+#: include/aheto-shortcodes.php:1055
+msgid "Rela Main"
+msgstr ""
+
+#: include/aheto-shortcodes.php:38 include/aheto-shortcodes.php:957
+msgid "Rela main"
+msgstr ""
+
+#: include/aheto-shortcodes.php:1372
+msgid "Rela Media Single"
+msgstr ""
+
+#: include/aheto-shortcodes.php:183 include/aheto-shortcodes.php:820
+#: include/aheto-shortcodes.php:1287
+msgid "Rela Minimal"
+msgstr ""
+
+#: include/aheto-shortcodes.php:478
+msgid "Rela minimal"
+msgstr ""
+
+#: include/aheto-shortcodes.php:173 include/aheto-shortcodes.php:557
+#: include/aheto-shortcodes.php:619 include/aheto-shortcodes.php:825
+#: include/aheto-shortcodes.php:1282 include/aheto-shortcodes.php:1641
+msgid "Rela Modern"
+msgstr ""
+
+#: include/aheto-shortcodes.php:188
+msgid "Rela Narrow"
+msgstr ""
+
+#: include/aheto-shortcodes.php:830
+msgid "Rela Packages"
+msgstr ""
+
+#: include/aheto-shortcodes.php:43
+msgid "Rela second"
+msgstr ""
+
+#: include/aheto-shortcodes.php:178
+msgid "Rela Short"
+msgstr ""
+
+#: include/aheto-shortcodes.php:200
+msgid "Rela Side"
+msgstr ""
+
+#: include/aheto-shortcodes.php:156 include/aheto-shortcodes.php:1082
+msgid "Rela Simple"
+msgstr ""
+
+#: include/aheto-shortcodes.php:1496
+msgid "Rela Slider"
+msgstr ""
+
+#: include/aheto-shortcodes.php:1590
+msgid "Rela Style"
+msgstr ""
+
+#: include/actions-config.php:296
+#, php-format
+msgid ""
+"Rela theme needs minimal WordPress version 4.3 and PHP 5.6<br>You are "
+"running version WordPress - %s, PHP - %s.<br>Please upgrade need module and "
+"try again."
+msgstr ""
+
+#: include/aheto-shortcodes.php:53
+msgid "Rela third"
+msgstr ""
+
+#: include/aheto-shortcodes.php:501
+msgid "Rela Top Nav"
+msgstr ""
+
+#: include/aheto-shortcodes.php:1065
+msgid "Rela Transparent"
+msgstr ""
+
+#: include/helper-function.php:39
+msgid "Reply"
+msgstr ""
+
+#: archive.php:7 category.php:6 index.php:25
+msgid "result found"
+msgstr ""
+
+#: archive.php:7 category.php:6 index.php:25
+msgid "results found"
+msgstr ""
+
+#: include/actions-config.php:258
+msgid "Return to Required Plugins Installer"
+msgstr ""
+
+#: searchform.php:5
+msgid "Search"
+msgstr ""
+
+#: searchform.php:3
+msgid "Search for:"
+msgstr ""
+
+#: include/actions-config.php:353
+msgid "Search.."
+msgstr ""
+
+#: include/aheto-shortcodes.php:518
+msgid "Searchbox"
+msgstr ""
+
+#: archive.php:13 category.php:12 index.php:31
+msgid "Showing results for "
+msgstr ""
+
+#: include/actions-config.php:53
+msgid "Sidebar"
+msgstr ""
+
+#: include/actions-config.php:239
+msgid "Something went wrong with the plugin API."
+msgstr ""
+
+#: include/actions-config.php:250
+#, php-format
+msgid ""
+"Sorry, but you do not have the correct permissions to activate the %s plugin."
+" Contact the administrator of this site for help on getting the plugin "
+"activated."
+msgid_plural ""
+"Sorry, but you do not have the correct permissions to activate the %s "
+"plugins. Contact the administrator of this site for help on getting the "
+"plugins activated."
+msgstr[0] ""
+msgstr[1] ""
+
+#: include/actions-config.php:244
+#, php-format
+msgid ""
+"Sorry, but you do not have the correct permissions to install the %s plugin. "
+"Contact the administrator of this site for help on getting the plugin "
+"installed."
+msgid_plural ""
+"Sorry, but you do not have the correct permissions to install the %s plugins."
+" Contact the administrator of this site for help on getting the plugins "
+"installed."
+msgstr[0] ""
+msgstr[1] ""
+
+#: include/actions-config.php:254
+#, php-format
+msgid ""
+"Sorry, but you do not have the correct permissions to update the %s plugin. "
+"Contact the administrator of this site for help on getting the plugin "
+"updated."
+msgid_plural ""
+"Sorry, but you do not have the correct permissions to update the %s plugins. "
+"Contact the administrator of this site for help on getting the plugins "
+"updated."
+msgstr[0] ""
+msgstr[1] ""
+
+#: archive.php:35 category.php:34 index.php:56
+msgid "Sorry, no posts matched your criteria."
+msgstr ""
+
+#: include/aheto-shortcodes.php:361
+msgid "Special"
+msgstr ""
+
+#: include/aheto-shortcodes.php:371
+msgid "Special color"
+msgstr ""
+
+#: include/actions-config.php:280
+msgid "Submit"
+msgstr ""
+
+#: comments.php:55
+msgid "Submit Now"
+msgstr ""
+
+#: include/aheto-shortcodes.php:1316 include/aheto-shortcodes.php:1337
+msgid "Testimonial"
+msgstr ""
+
+#: include/aheto-shortcodes.php:1601
+msgid "Text for video button"
+msgstr ""
+
+#: include/actions-config.php:252
+#, php-format
+msgid ""
+"The following plugin needs to be updated to its latest version to ensure "
+"maximum compatibility with this theme: %1$s."
+msgid_plural ""
+"The following plugins need to be updated to their latest version to ensure "
+"maximum compatibility with this theme: %1$s."
+msgstr[0] ""
+msgstr[1] ""
+
+#: include/actions-config.php:248
+#, php-format
+msgid "The following recommended plugin is currently inactive: %1$s."
+msgid_plural "The following recommended plugins are currently inactive: %1$s."
+msgstr[0] ""
+msgstr[1] ""
+
+#: include/actions-config.php:246
+#, php-format
+msgid "The following required plugin is currently inactive: %1$s."
+msgid_plural "The following required plugins are currently inactive: %1$s."
+msgstr[0] ""
+msgstr[1] ""
+
+#: include/actions-config.php:242
+#, php-format
+msgid "This theme recommends the following plugin: %1$s."
+msgid_plural "This theme recommends the following plugins: %1$s."
+msgstr[0] ""
+msgstr[1] ""
+
+#: include/actions-config.php:240
+#, php-format
+msgid "This theme requires the following plugin: %1$s."
+msgid_plural "This theme requires the following plugins: %1$s."
+msgstr[0] ""
+msgstr[1] ""
+
+#: include/aheto-shortcodes.php:576 include/aheto-shortcodes.php:667
+msgid "Title"
+msgstr ""
+
+#: include/aheto-shortcodes.php:710 include/aheto-shortcodes.php:1101
+msgid "Title Max width"
+msgstr ""
+
+#: include/aheto-shortcodes.php:578
+msgid "Title with [[ hightlight ]] text."
+msgstr ""
+
+#: include/aheto-shortcodes.php:577
+msgid "To Hightlight text insert text between: [[ Your Text Here ]]"
+msgstr ""
+
+#: include/aheto-shortcodes.php:1509
+msgid "Tur on light arrows?"
+msgstr ""
+
+#: include/aheto-shortcodes.php:1022 include/aheto-shortcodes.php:1240
+msgid "Use custom font for Author?"
+msgstr ""
+
+#: include/aheto-shortcodes.php:1226
+msgid "Use custom font for Date?"
+msgstr ""
+
+#: include/aheto-shortcodes.php:315 include/aheto-shortcodes.php:1133
+msgid "Use custom font for Description?"
+msgstr ""
+
+#: include/aheto-shortcodes.php:639 include/aheto-shortcodes.php:877
+msgid "Use custom font for description?"
+msgstr ""
+
+#: include/aheto-shortcodes.php:287
+msgid "Use custom font for Heading?"
+msgstr ""
+
+#: include/aheto-shortcodes.php:862
+msgid "Use custom font for heading?"
+msgstr ""
+
+#: include/aheto-shortcodes.php:80
+msgid "Use custom font for Menu links?"
+msgstr ""
+
+#: include/aheto-shortcodes.php:301
+msgid "Use custom font for Price?"
+msgstr ""
+
+#: include/aheto-shortcodes.php:1605
+msgid "Use custom font for text?"
+msgstr ""
+
+#: include/aheto-shortcodes.php:1147
+msgid "Use custom font for Title?"
+msgstr ""
+
+#: include/aheto-shortcodes.php:683
+msgid "Vertical"
+msgstr ""
+
+#: comments.php:47
+msgid "Your comment"
+msgstr ""
+
+#: comments.php:41
+msgid "Your email"
+msgstr ""
+
+#: comments.php:40
+msgid "Your name"
+msgstr ""

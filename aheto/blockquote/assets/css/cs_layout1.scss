@@ -1,0 +1,43 @@
+@import '../../../../assets/css/mixin';
+
+.aheto-quote {
+	$quote: &;
+	&--rela-simple {
+		border: none;
+		padding: 80px 30px 40px 30px;
+		max-width: unset;
+		@include sm-size-max {
+			padding: 80px 25px 40px 25px;
+		}
+		@include xs-size-max {
+			padding: 70px 25px 30px 25px;
+		}
+		&:before {
+			content: '“';
+			opacity: 1;
+			top: 30px;
+			text-align: center;
+			//font-family: var(--t-secondary-font-family);
+			//font-size: 60px;
+			//font-weight: 400;
+		}
+		p {
+			opacity: 0.7;
+		}
+		#{$quote}__author {
+			margin-bottom: 10px;
+			&:before {
+				content: none;
+			}
+		}
+		#{$quote}__date {
+			display: inline-block;
+			margin-top: 20px;
+			opacity: 1;
+			//font-size: 0.93rem;
+			@include xs-size-max {
+				margin-top: 15px;
+			}
+		}
+	}
+}
